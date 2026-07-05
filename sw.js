@@ -1,4 +1,4 @@
-const VERSION = "1783227546719";const preCache = ["/CyBlog/images/taichi.png","/CyBlog/images/banner1.webp","/CyBlog/css/loader.css","/CyBlog/css/style.css","/CyBlog/js/script.js"];const cacheDomain = [
+const VERSION = "1783227735721";const preCache = ["/CyBlog/images/taichi.png","/CyBlog/images/banner1.webp","/CyBlog/css/loader.css","/CyBlog/css/style.css","/CyBlog/js/script.js"];const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
   "unpkg.com",
