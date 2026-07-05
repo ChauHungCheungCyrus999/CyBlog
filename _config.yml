@@ -103,5 +103,5 @@ theme: reimu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/ChauHungCheungCyrus999/PersonalBlog.git
+  repo: https://github.com/ChauHungCheungCyrus999/CyBlog.git
   branch: gh-pages
