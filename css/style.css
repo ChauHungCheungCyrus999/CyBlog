@@ -43,12 +43,12 @@
   --highlight-deletion-bg: #ffeef0;
   --highlight-addition: #22863a;
   --highlight-addition-bg: #f0fff4;
-  --cursor-default: url("../images/cursor/reimu-cursor-default.png"), auto;
-  --cursor-pointer: url("../images/cursor/reimu-cursor-pointer.png"), pointer;
-  --cursor-text: url("../images/cursor/reimu-cursor-text.png"), text;
-  --footer-icon: url("../images/taichi.png");
-  --sponsor-icon: url("../images/taichi.png");
-  --top-icon: url("../images/taichi.png");
+  --cursor-default: default;
+  --cursor-pointer: pointer;
+  --cursor-text: text;
+  --footer-icon: url("../images/Sharingan_3_Tomoe.png");
+  --sponsor-icon: url("../images/Sharingan_3_Tomoe.png");
+  --top-icon: url("../images/Sharingan_3_Tomoe.png");
   --shadow-meta: 0 0 5px 2px var(--color-meta-shadow);
   --shadow-meta-hover: 0 0 6px 4px var(--color-meta-shadow);
   --shadow-card: 0 0 10px 2px var(--color-hover-shadow);
